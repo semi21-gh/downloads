@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Samuel Au
+N:Au;Samuel;;;
+item1.EMAIL;TYPE=INTERNET:samuel@swiftfocuscoaching.com
+item1.X-ABLabel:
+ORG:Swift Focus Coaching
+CATEGORIES:myContacts
+END:VCARD
